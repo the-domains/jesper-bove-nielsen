@@ -1,14 +1,14 @@
 layout_spectrum: 0.02508961
-typography_spectrum: 0.4265233
 color:
   saturation: 1
   lightness: 1
   brandStrength: 0.9784434
-  rhythmicContrast: 1
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#BE1E2E'
+    - '#6D6E72'
+    - '#FFCB08'
+    - '#F1592A'
+    - '#0B9444'
+  rhythmicContrast: 1
+typography_spectrum: 0.4265233
 name: Jesper Bove-Nielsen
