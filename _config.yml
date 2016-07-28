@@ -14,7 +14,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: Seriously Digimental
+title: Jesper Bove-Nielsen - Seriously Digimental
 cta:
   domain: null
   bucket: null
