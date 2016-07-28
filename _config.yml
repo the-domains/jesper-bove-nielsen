@@ -1,14 +1,26 @@
-layout_spectrum: 0.02508961
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.4265233
 color:
   saturation: 0.8010753
-  lightness: 0.6971326
   brandStrength: 0.9784434
+  lightness: 0.6971326
   brandColors:
-    - '#BE1E2E'
-    - '#6D6E72'
-    - '#FFCB08'
-    - '#F1592A'
-    - '#0B9444'
-  rhythmicContrast: 0.05376344
+    - '#809EC4'
+    - '#4573B2'
+    - '#C5C0BA'
+    - '#04080D'
+    - '#2D2C2A'
+  rhythmicContrast: 0.08064516
+layout_spectrum: 0.9820789
 name: Jesper Bove-Nielsen
