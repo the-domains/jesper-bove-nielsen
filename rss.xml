@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Jesper Bove-Nielsen]]></title>
-        <description><![CDATA[Jesper Bove-Nielsen]]></description>
-        <link>https://thegrid.ai/jesper-bove-nielsen/</link>
+        <title><![CDATA[Seriously Digimental]]></title>
+        <description><![CDATA[Seriously Digimental]]></description>
+        <link>http://bove-nielsen.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Jul 2016 18:49:41 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/jesper-bove-nielsen/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 28 Jul 2016 14:33:11 GMT</lastBuildDate>
+        <atom:link href="http://bove-nielsen.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Test]]></title>
+            <description><![CDATA[<article><h1>Test</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1bd66758237c773593a6cf8d515eb8ab/croprotate.jpg?cropheight=3264&cropwidth=2448&degrees=-90&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F223a9c70-4ef3-47c2-9b5b-1387b8a3caa1.jpg&x=0&y=0"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/223a9c70-4ef3-47c2-9b5b-1387b8a3caa1.jpg</link>
+            <guid isPermaLink="false">ae25bf9d-25d0-4d9a-87fa-59855903cc4d</guid>
+            <pubDate>Thu, 28 Jul 2016 14:33:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cd859468-5d8c-4f68-aa87-9fe2c1672b40.jpg">]]></description>
